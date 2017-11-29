@@ -12,7 +12,7 @@ hunter_add_version(
     PACKAGE_NAME
     TinyXML
     VERSION
-    1.0.0
+    1.0.1
     URL
     "https://github.com/deanhu2/TinyXML-Hunter-package/archive/1.0.1.tar.gz"
     SHA1
