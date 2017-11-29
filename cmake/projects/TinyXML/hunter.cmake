@@ -16,7 +16,7 @@ hunter_add_version(
     URL
     "https://github.com/deanhu2/TinyXML-Hunter-package/archive/v1.0.0.tar.gz"
     SHA1
-    2667af636f6256a3ecddeae702474593c2e7872b
+    f9c94402c6fb81bf69ebbba1a177dd1fa66dd11d
 )
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
