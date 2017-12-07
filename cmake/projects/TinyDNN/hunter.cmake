@@ -12,11 +12,11 @@ hunter_add_version(
     PACKAGE_NAME
     TinyDNN
     VERSION
-    1.0.3
+    1.0.4
     URL
-    "https://github.com/deanhu2/hunter-tiny-dnn/archive/1.03.tar.gz"
+    "https://github.com/deanhu2/hunter-tiny-dnn/archive/1.04.tar.gz"
     SHA1
-    177010be045b08d0ace495c8e3ef5b980d855d62
+    ea89b08a4199ccde97dd6e61e0c54f57fea424e4
 )
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
