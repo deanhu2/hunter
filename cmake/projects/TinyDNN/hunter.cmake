@@ -12,7 +12,7 @@ hunter_add_version(
     PACKAGE_NAME
     TinyDNN
     VERSION
-    1.0.4
+    1.0.5
     URL
     "https://github.com/deanhu2/hunter-tiny-dnn/archive/1.05.tar.gz"
     SHA1
