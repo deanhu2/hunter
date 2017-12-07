@@ -14,9 +14,9 @@ hunter_add_version(
     VERSION
     1.0.4
     URL
-    "https://github.com/deanhu2/hunter-tiny-dnn/archive/1.04.tar.gz"
+    "https://github.com/deanhu2/hunter-tiny-dnn/archive/1.05.tar.gz"
     SHA1
-    ea89b08a4199ccde97dd6e61e0c54f57fea424e4
+    be7e5e981ac3ceaeeb18963a9adecdf9aaa7038a
 )
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
