@@ -12,11 +12,11 @@ hunter_add_version(
     PACKAGE_NAME
     upng
     VERSION
-    1.0.11
+    1.0.12
     URL
-    "https://github.com/deanhu2/hunter-upng/archive/1.11.tar.gz"
+    "https://github.com/deanhu2/hunter-upng/archive/1.12.tar.gz"
     SHA1
-    bb01890a1d21297d5e039b247fa405c40ec1e385
+    5f3a695a85fecc511e220c7a2946174794aada39
 )
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
