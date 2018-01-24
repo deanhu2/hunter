@@ -9,7 +9,7 @@ include(hunter_pick_scheme)
 hunter_add_version(
     PACKAGE_NAME pugixml
     VERSION "1.8.1"
-    URL "https://github.com/rusdevops/pugixml/archive/v1.8.1-hunter.tar.gz"
+    URL "https://github.com/deanhu2/pugixml/archive/v1.8.1-hunter.tar.gz"
     SHA1 005b1c8830e6f81f559d0b72f9f7ff320895847f
 )
 
